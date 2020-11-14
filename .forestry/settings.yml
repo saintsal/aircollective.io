@@ -6,9 +6,9 @@ webhook_url:
 sections:
 - type: directory
   path: source
-  label: Content
+  label: Pages
   create: all
-  match: "**/*"
+  match: "*"
 - type: directory
   path: source/_posts
   label: Updates
