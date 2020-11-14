@@ -6,16 +6,16 @@ webhook_url:
 sections:
 - type: directory
   path: source
-  label: Content
-  create: all
-  match: "**/*"
+  label: Pages
+  create: documents
+  match: "*"
 - type: directory
   path: source/_posts
   label: Updates
   create: documents
   match: "**/*"
 upload_dir: source/images
-public_path: "/iamges"
+public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
