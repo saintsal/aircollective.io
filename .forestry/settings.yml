@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: source
   label: Pages
-  create: all
+  create: documents
   match: "*"
 - type: directory
   path: source/_posts
