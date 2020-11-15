@@ -7,6 +7,8 @@ In March 2020, Air Collective was started by Salim Virani (Source) and Natanail 
 
 Seeing a Italian project to convert Decathlon snorkeling masks into breathing masks for front-line doctors, they contacted Bozhana Ivanova at Resonator, and she started to lead a Bulgarian effort to produce similar breathers with the goal of protecting all hospital staff in Bulgaria.
 
-Bozhana found and connected a few separate teams who'd already started to make progress along the same lines: Dimo Dimov (Solid Fill), who had adapted the design for filters that were available in Bulgaria, Momchil Petrov (Medlease), who had established contact with management of various Bulgarian hospitals, and Enrico Repouz and Peter Petroc (Techteam BG) who was already rapidly iterating his design with front-line staff in regional hospitals.  Together, they were able to combine their strengths, and set out to protect Bulgaria's front-line health workers against COVID-19.
+Bozhana found and connected a few separate teams who'd already started to make progress along the same lines: Dimo Dimov (Solid Fill), who had adapted the design for filters that were available in Bulgaria, Momchil Petrov (Medlease), who had established contact with management of various Bulgarian hospitals, and Enrico Repouz and Peter Petroc (Techteam BG) who was already rapidly iterating his design with front-line staff in regional hospitals.  
+
+Together, we were able to combine their strengths, and set out to protect Bulgaria's front-line health workers against COVID-19.
 
 Today, Air Collective continues as an open collaboration, with a focus on that purpose.
