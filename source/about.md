@@ -9,6 +9,6 @@ Seeing a Italian project to convert Decathlon snorkeling masks into breathing ma
 
 Bozhana found and connected a few separate teams who'd already started to make progress along the same lines: Dimo Dimov (Solid Fill), who had adapted the design for filters that were available in Bulgaria, Momchil Petrov (Medlease), who had established contact with management of various Bulgarian hospitals, and Enrico Repouz and Peter Petroc (Techteam BG) who was already rapidly iterating his design with front-line staff in regional hospitals.  
 
-Together, we were able to combine their strengths, and set out to protect Bulgaria's front-line health workers against COVID-19.
+Together, we were able to combine these strengths, and we set out to protect Bulgaria's front-line health workers against COVID-19.
 
 Today, Air Collective continues as an open collaboration, with a focus on that purpose.
