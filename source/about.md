@@ -3,7 +3,7 @@ title: About Air Collective
 date: 2020-04-01T00:00:00+03:00
 
 ---
-In March 2020, Air Collective was started by Salim Virani (Source) and Natanail Stefanov (Sofia Tech Park), initially as a project to mobilise engineers to rapidly design and build ventilators to address the COVID-19 pandemic.  It quickly grew to 150 engineers, participating from 24 countries.
+In March 2020, Air Collective was started by Salim Virani (Source) and Natanail Stefanov (Sofia Tech Park), initially as a project to mobilise engineers to rapidly design and build ventilators to address the COVID-19 pandemic.  It quickly grew to 150 engineers, participating from 24 countries and supported the creation of 15 ventilator prototypes.
 
 Seeing a Italian project to convert Decathlon snorkeling masks into breathing masks for front-line doctors, they contacted Bozhana Ivanova at Resonator, and she started to lead a Bulgarian effort to produce similar breathers with the goal of protecting all hospital staff in Bulgaria.
 
