@@ -10,6 +10,7 @@ fields:
   label: date
 pages:
 - source/_posts/....md
+- source/_posts/....md-1
 - source/_posts/...md
 - source/_posts/...md-1
 - source/_posts/10-iii..md
