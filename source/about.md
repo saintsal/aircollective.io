@@ -3,12 +3,12 @@ title: About Air Collective
 date: 2020-04-01T00:00:00+03:00
 
 ---
-In March 2020, Air Collective was started by Salim Virani (Source) and Natanail Stefanov (Sofia Tech Park), initially as a project to mobilise engineers to rapidly design and build ventilators to address the COVID-19 pandemic.  It quickly grew to 150 engineers, participating from 24 countries and supported the creation of 15 ventilator prototypes.
+През март 2020 г. Air Collective стартира от Салим Вирани (Източник) и Натанаил Стефанов (София Тех Парк), първоначално като проект за мобилизиране на инженери за бързо проектиране и изграждане на вентилатори за справяне с пандемията COVID-19. Бързо нарасна до 150 инженери, участващи от 24 държави и подкрепи създаването на 15 прототипа на вентилатора.
 
-Seeing an Italian project to convert Decathlon snorkeling masks into breathing masks for front-line doctors, they contacted Bozhana Ivanova at Resonator, and she started to lead a Bulgarian effort to produce similar breathers with the goal of protecting all hospital staff in Bulgaria.
+Виждайки италиански проект за превръщане на маски за гмуркане с шнорхел Decathlon в дихателни маски за лекари от първа линия, те се свързаха с Божана Иванова в Resonator и тя започна да ръководи български усилия за производство на подобни дишачи с цел защита на целия болничен персонал в България.
 
-Bozhana found and connected a few separate teams who'd already started to make progress along the same lines: Dimo Dimov (Solid Fill), who had adapted the design for filters that were available in Bulgaria, Momchil Petrov (Medlease), who had established contact with management of various Bulgarian hospitals, and Enrico Repouz and Peter Petroc (Techteam BG) who was already rapidly iterating his design with front-line staff in regional hospitals.  
+Божана намери и свърза няколко отделни екипа, които вече бяха започнали да напредват по същия начин: Димо Димов (Solid Fill), който беше адаптирал дизайна за филтри, които се предлагаха в България, Момчил Петров (Medlease), който беше създал контакт с ръководството на различни български болници и Enrico Repouz и Peter Petroc (Techteam BG), който вече бързо повтаряше дизайна си с персонал от първа линия в регионалните болници.
 
-Together, we were able to combine these strengths, and we set out to protect Bulgaria's front-line health workers against COVID-19.
+Заедно успяхме да комбинираме тези силни страни и се заехме да защитим здравните работници в България от COVID-19.
 
-Today, Air Collective continues as an open collaboration, with a focus on that purpose.
+Днес Air Collective продължава като отворено сътрудничество, с фокус върху тази цел.
