@@ -1,5 +1,5 @@
 ---
-title: About Air Collective
+title: За нас
 date: 2020-04-01T00:00:00+03:00
 
 ---
