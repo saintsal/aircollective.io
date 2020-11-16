@@ -9,7 +9,18 @@ fields:
   name: date
   label: date
 pages:
+- source/_posts/10-iii..md
+- source/_posts/115..md
+- source/_posts/16-ppe..md
+- source/_posts/47.md
+- source/_posts/9.md
 - source/_posts/велинград.md
+- source/_posts/детски-градини-и-ясли-в-район-изгрев.md
+- source/_posts/краудфандинг-1.md
 - source/_posts/маски-към-мбал-велинград.md
+- source/_posts/на-гръдна-хирургия.md
+- source/_posts/предоставихме-за-първоначален-тест-стара-загора-сливен-перник.md
 - source/_posts/разград-стара-загора.md
-- source/_posts/тракия.md
+- source/_posts/снимки-от-специализираната-болница-за-активно-лечение-на-белодробни-болести-перник.md
+- source/_posts/спешна-медицинска-помощ-софия.md
+- source/about.md
