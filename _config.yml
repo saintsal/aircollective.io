@@ -104,3 +104,13 @@ theme: phantom
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+feed:
+  # Generate both atom and rss2 feeds
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
