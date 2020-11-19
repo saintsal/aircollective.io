@@ -1,0 +1,17 @@
+<%
+var cssClass = "style" + (index % 12 + 1);
+%>
+
+	<a href="<%- config.root %><%- item.path %>">
+<div class="listing <%- cssClass %>">
+	<% if (item.cover_index) { %>
+	<span class="image thumb">
+		<img src="<%- item.cover_index || theme.default_cover_index %>" alt="" />
+	</span>
+	<% } %>
+	<div>
+		<div><%- date(item.date) %></div>
+		<h3><%- item.title || theme.default_post_title || "Untitled" %></h3>
+	</div>
+</div>
+	</a>

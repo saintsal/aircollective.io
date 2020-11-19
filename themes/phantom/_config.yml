@@ -1,0 +1,109 @@
+# Header
+menu:
+  начало: /
+  за нас: /about
+  лекари: /doctors
+  Дарители: /donors
+  3D принтери: /3d-labs
+  контакт: /contact
+
+tiles:
+- title: За Лекари 
+  subtitle: Безплатни херметически затворени дихателни маски 
+  path: doctors
+  cover_index: /images/doctors.jpg
+
+- title: За Дарители
+  subtitle: Финансирай маски 
+  path: donors
+  cover_index: https://images.unsplash.com/photo-1588776049188-b27693b3f966?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500
+
+- title: 3D принтери
+  subtitle: Снабди болници 
+  path: 3d-labs.html
+  cover_index: https://images.unsplash.com/photo-1514063364532-5abd25e38290?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500
+
+
+team:
+  Salim Virani: http://
+  Natanail Stefanov:
+  Bozhana Ivanova:
+
+founders:
+- name: Resonator Foundation
+  logo: http://aircollective.io/images/logo-resonator.png
+  url: http://resonator.bg/
+- name: BESCO
+  logo: http://aircollective.io/images/besco-logo-130x43.png
+  url: http://besco.bg
+- name: Source Institute
+  logo: http://aircollective.io/images/source_logo.png
+  url: http://source.institute
+
+powered_by:
+- name: Resonator Foundation
+  logo: http://aircollective.io/images/logo-resonator.png
+  url: http://resonator.bg/
+- name: Solid Fill
+  logo: http://aircollective.io/images/solidfill_logo.png
+  url: http://solidfill.com/
+
+support_from:
+- name: MedLease
+  logo: http://aircollective.io/images/medlease_logo.svg
+  url: http://medlease.bg/
+- name: Sofia Tech Park
+  logo: http://aircollective.io/images/sofia-tech-park-logo.jpg
+  url: https://sofiatech.bg/
+- name: OS Implants
+  logo: http://aircollective.io/images/osimplants_logo.svg
+  url: http://osimplants.com/
+
+# Logo Image Source
+logo_src: /images/logo.png
+
+# Theme Main Subtitle
+subtitle_main: Защита за нашите лекари срещу COVID
+
+# Theme Secondary subtitle
+susbtitle_secondary: Air Collective е проект с нестопанска цел, който осигурява херметически затворени маски за дишане с филтрация за болничния персонал на първа линия в българските болници. 
+
+# Footer About Section
+about_footer: Air Collective е проект с нестопанска цел, който осигурява въздушно запечатани дихателни маски на персонала от първа линия в българските болници.
+
+# Default post title
+default_post_title: Air Collective Update
+
+# Default post cover index page (Recommended)
+default_cover_index: "https://aircollective.io/images/doctors.jpg"
+
+# Default post cover index page (Optional)
+default_cover_detail:
+
+# Show Dates for posts and pages
+show_dates: true
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname: 
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+#twitter_url: https://twitter.com/?lang=en
+#facebook_url: https://www.facebook.com/
+#instagram_url: https://www.instagram.com/
+#dribble_url: https://dribbble.com/
+#github_url: https://github.com/klugjo/hexo-theme-phantom/commits?author=klugjo
+#googleplus_url: https://plus.google.com/
+#behance_url: https://www.behance.net/
+#fivehundredpx_url: https://500px.com/
+email_url: mailto:info@aircollective.io
+#rss_url: \#

@@ -1,0 +1,12 @@
+<header>
+    <h1><%- theme.subtitle_main %></h1>
+    <p><%- theme.susbtitle_secondary %></p>
+</header>
+
+<section class="tiles">
+        <% for (var i in theme.tiles){ %>
+		<%- partial('_partial/article-index', {item: theme.tiles[i], index: i}) %>
+        <% } %>
+</section>
+
+<%- partial('_partial/pagination') %>
