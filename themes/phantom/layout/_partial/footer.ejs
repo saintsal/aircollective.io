@@ -9,14 +9,14 @@
 %>
 <!-- Footer -->
 <footer id="footer">
+    <h1>Досега сме осигурили 400 маски за 25 болници</h1>
     <div class="inner">
         <section>
-	    <h2>следете нашия напредък</h2>
 		<%- partial('_partial/signup-form') %>
-	    <h2>Досега сме осигурили 400 маски за 25 болници</h2>
-	    <% site.posts.sort('date', -1).each(function(item, index) { %>
-		<%- partial('_partial/article-listing', {item: item, index: index}) %>
-	    <% }); %>
+		<h2>Актуализации</h2>
+		<% site.posts.sort('date', -1).each(function(item, index) { %>
+			<%- partial('_partial/article-listing', {item: item, index: index}) %>
+		<% }); %>
         </section>
         <section>
             <a href="/about"><h2>за нас</h2></a>

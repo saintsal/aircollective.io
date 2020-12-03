@@ -6,37 +6,47 @@
 
 /* Footer */
 
-	#footer {
-		$gutter: _size(gutter);
+#footer {
+	$gutter: _size(gutter);
 
-		@include padding(5em, 0, (0, 0, 3em, 0));
-		background-color: _palette(bg-alt);
+	@include padding(5em, 0, (0, 0, 3em, 0));
+	background-color: _palette(bg-alt);
 
-		> .inner {
-			@include vendor('display', 'flex');
-			@include vendor('flex-wrap', 'wrap');
-			@include vendor('flex-direction', 'row');
+	h1 {
+		font-size: 1.5em;
+		position: relative;
+		top: -4em;
+		margin: 0;
+		text-align: center;
+		font-weight: normal;
+		letter-spacing: 0.3em;
+	}
 
-			> * > :last-child {
-				margin-bottom: 0;
-			}
+	> .inner {
+		@include vendor('display', 'flex');
+		@include vendor('flex-wrap', 'wrap');
+		@include vendor('flex-direction', 'row');
 
-			a {
-				color: inherit;
-			}
+		> * > :last-child {
+			margin-bottom: 0;
+		}
 
-			section:nth-child(1) {
-				width: calc(66% - #{$gutter});
-				margin-right: $gutter;
-			}
+		a {
+			color: inherit;
+		}
 
-			section:nth-child(2) {
-				width: calc(33% - #{$gutter});
-				margin-left: $gutter;
-			}
+		section:nth-child(1) {
+			width: calc(66% - #{$gutter});
+			margin-right: $gutter;
+		}
+
+		section:nth-child(2) {
+			width: calc(33% - #{$gutter});
+			margin-left: $gutter;
+		}
 
 
-			h2 {
+		h2 {
 				margin-top: 6em;
 			}
 
@@ -50,7 +60,7 @@
 			.logos {
 				img {
 					width: 100%;
-					max-width: 10rem;
+					max-width: 7rem;
 				}
 				
 				a {
