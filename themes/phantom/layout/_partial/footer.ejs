@@ -13,7 +13,7 @@
         <section>
 	    <h2>следете нашия напредък</h2>
 		<%- partial('_partial/signup-form') %>
-	    <h2>напредък</h2>
+	    <h2>Досега сме осигурили 400 маски за 25 болници</h2>
 	    <% site.posts.sort('date', -1).each(function(item, index) { %>
 		<%- partial('_partial/article-listing', {item: item, index: index}) %>
 	    <% }); %>

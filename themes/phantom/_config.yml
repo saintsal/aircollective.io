@@ -5,7 +5,9 @@ menu:
   лекари: /doctors
   Дарители: /donors
   3D принтери: /3d-labs
+  Прозрачност: /transparency
   контакт: /contact
+  
 
 tiles:
 - title: За Лекари 
