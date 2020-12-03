@@ -21,6 +21,10 @@
 				margin-bottom: 0;
 			}
 
+			a {
+				color: inherit;
+			}
+
 			section:nth-child(1) {
 				width: calc(66% - #{$gutter});
 				margin-right: $gutter;
@@ -31,6 +35,10 @@
 				margin-left: $gutter;
 			}
 
+
+			h2 {
+				margin-top: 6em;
+			}
 
 			ul.logos {
 				cursor: default;
@@ -63,9 +71,6 @@
 				font-size: 0.8em;
 				color: transparentize(_palette(fg), 0.5);
 
-				a {
-					color: inherit;
-				}
 
 				li {
 					display: inline-block;
