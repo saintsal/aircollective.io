@@ -11,6 +11,6 @@ date: 2020-12-01T08:00:00.000+00:00
 
 [Списък на регистрираните доброволци за инженерни проекти, свързани с COVID (международни)](https://airtable.com/shrskx6uYDk1KqrvN)
 
-[Дизайн и STL на адаптер](https://drive.google.com/drive/folders/17zDCgzu3y4ZxbLoodzp1Higa4BgQq1RH?usp=sharing)
+[Дизайн и STL на адаптер](https://drive.google.com/drive/folders/1BDaJAQHZcyYJurIn_5eunkRCJ3C8soLL?usp=sharing)
 
 Ако имаме някаква информация, която би могла да ви бъде полезна и не е тук, моля свържете се с нас.
