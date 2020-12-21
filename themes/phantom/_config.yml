@@ -51,12 +51,15 @@ powered_by:
   url: http://solidfill.com/
 
 support_from:
-- name: MedLease
-  logo: http://aircollective.io/images/medlease_logo.svg
-  url: http://medlease.bg/
+- name: TELUS
+  logo: http://aircollective.io/images/logo-telus.jpg
+  url: https://www.telusinternational.com/locations/bulgaria
 - name: Sofia Tech Park
   logo: http://aircollective.io/images/sofia-tech-park-logo.jpg
   url: https://sofiatech.bg/
+- name: MedLease
+  logo: http://aircollective.io/images/medlease_logo.svg
+  url: http://medlease.bg/
 - name: OS Implants
   logo: http://aircollective.io/images/osimplants_logo.svg
   url: http://osimplants.com/
