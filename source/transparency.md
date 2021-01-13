@@ -11,6 +11,7 @@ date: 2020-12-01T08:00:00.000+00:00
 
 [Списък на регистрираните доброволци за инженерни проекти, свързани с COVID (международни)](https://airtable.com/shrskx6uYDk1KqrvN)
 
-[Дизайн и STL файл за адаптер](https://drive.google.com/drive/folders/1BDaJAQHZcyYJurIn_5eunkRCJ3C8soLL?usp=sharing)
+[Дизайн и STL файл за адаптер](https://drive.google.com/drive/folders/1BDaJAQHZcyYJurIn_5eunkRCJ3C8soLL?usp=sharing) - модел EASYBREATHE на Decathlon  
+[STL файл за адаптер](https://drive.google.com/drive/folders/1A9lJ0sbBxiytY_PHyzDqY4zLP9ElPCrg?usp=sharing) - модел EASYBREATHE 500 на Decathlon (последен модел!)
 
 Ако имаме някаква информация, която би могла да ви бъде полезна и не е тук, моля свържете се с нас.
